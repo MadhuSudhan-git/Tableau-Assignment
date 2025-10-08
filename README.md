@@ -1,5 +1,5 @@
-Charts & Quick Table Calculations
-NOTE: Create all questions in one Tableau file, once you completed working on all the questions save it as .twbx file and submit it to assignments_da@excelr.com.
+Download the raw data from the TABLEAU asignment section
+
 
 Assignment 1
 ---
