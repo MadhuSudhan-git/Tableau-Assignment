@@ -1,4 +1,4 @@
-Download the raw data from the TABLEAU asignment section so you can check the Tableau Dashboard 
+Download the raw data from the TABLEAU asignment section to check the Tableau Dashboard 
 
 
 Assignment 1
